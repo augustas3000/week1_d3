@@ -7,7 +7,7 @@ def sum_array(arr)
   # also - array method - look up
   # return arr.sum()
 
-  for loop variant:
+  # for loop variant:
   arr_sum = 0
   for item in arr
     arr_sum += item
