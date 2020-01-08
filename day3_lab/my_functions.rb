@@ -24,7 +24,7 @@ def is_item_in_array(arr, item)
 #  return false
 # end
 
-for loop way
+# for loop way
   for i in arr
     if i == item
       return true
