@@ -33,6 +33,7 @@ def is_item_in_array(arr, item)
   return false
 end
 
+
 def get_first_key(hsh)
   array_of_keys = hsh.keys
   first_key = array_of_keys[0]
